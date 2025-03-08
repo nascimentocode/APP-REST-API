@@ -1,0 +1,24 @@
+# Ignore arquivos do Python
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Ignore dependências e ambientes virtuais
+.venv/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos do Flet
+.flet/
+*.flet-debug.log
