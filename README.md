@@ -16,7 +16,6 @@ Uma aplicação desenvolvida com **Python** e **Flet**, que consome a **API REST
 
 - **Python 3.x**
 - **Flet** (para desenvolvimento da interface gráfica)
-- **Django Ninja** (API RESTful)
 
 
 ## 🔗 **API Consumida**
