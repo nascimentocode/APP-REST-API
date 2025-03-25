@@ -5,11 +5,11 @@ Uma aplicação desenvolvida com **Python** e **Flet**, que consome a **API REST
 
 ## 🚀 **Funcionalidades**
 
-🔹 Criar aluno
-🔹 Listar alunos
-🔹 Consultar progresso do aluno
-🔹 Registrar aulas realizadas
-🔹 Atualizar informações do aluno
+- Criar aluno
+- Listar alunos
+- Consultar progresso do aluno
+- Registrar aulas realizadas
+- Atualizar informações do aluno
 
 
 ## 🛠 **Tecnologias Utilizadas**
