@@ -1,6 +1,6 @@
 # 📱 Aplicação Mobile/Desktop para Academia de Jiu-Jitsu
 
-Uma aplicação desenvolvida com **Python** e **Flet**, que consome a **API RESTful** da academia de Jiu-Jitsu, permitindo gerenciar alunos e aulas de forma intuitiva.
+Uma aplicação desenvolvida com **Python** e **Flet**, que consome a **API RESTful** da academia de Jiu-Jitsu, permitindo gerenciar alunos e aulas de forma intuitiva. Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2" da Pythonando.
 
 
 ## 🚀 **Funcionalidades**
